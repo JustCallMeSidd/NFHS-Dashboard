@@ -1,0 +1,11 @@
+Example 1:
+Q: What is the literacy rate among women age 15-49 in Kerala Urban?
+A: 92.7%
+
+Example 2:
+Q: What percentage of households in Maharashtra Rural use clean fuel for cooking?
+A: 42.5%
+
+Example 3:
+Q: What is the neonatal mortality rate in Bihar Total?
+A: 30.1 per 1000 live births
